@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jimmy Abraham's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jimmy Abraham
+Software Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="abrahamjimmy@hotmail.com">isaac@applesdofall.org</a>
 </div>
 
 
