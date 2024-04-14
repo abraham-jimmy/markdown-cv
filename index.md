@@ -6,7 +6,7 @@ title: Jimmy Abraham's CV
 Software Developer
 
 <div id="webaddress">
-<a href="abrahamjimmy@hotmail.com">isaac@applesdofall.org</a>
+<a href="abrahamjimmy@hotmail.com">abrahamjimmy@hotmail.com</a>
 </div>
 
 
